@@ -1,0 +1,14 @@
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\bin\Debug\netcoreapp2.1\EchoServer.deps.json
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\bin\Debug\netcoreapp2.1\EchoServer.runtimeconfig.json
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\bin\Debug\netcoreapp2.1\EchoServer.runtimeconfig.dev.json
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\bin\Debug\netcoreapp2.1\EchoServer.dll
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\bin\Debug\netcoreapp2.1\EchoServer.pdb
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\obj\Debug\netcoreapp2.1\EchoServer.csprojAssemblyReference.cache
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\obj\Debug\netcoreapp2.1\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\obj\Debug\netcoreapp2.1\EchoServer.AssemblyInfoInputs.cache
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\obj\Debug\netcoreapp2.1\EchoServer.AssemblyInfo.cs
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\obj\Debug\netcoreapp2.1\EchoServer.dll
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\obj\Debug\netcoreapp2.1\EchoServer.pdb
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\kay\Documents\Visual Studio 2017\Projects\Assignment2RawData2\EchoServer\obj\Debug\netcoreapp2.1\EchoServer.csproj.CopyComplete
